@@ -1,10 +1,10 @@
-# Ì∞ß Linux Bash Scripts Collection
+# Linux Bash Scripts Collection
 
 A collection of **Linux Bash scripts** for system administration, automation, and DevOps labs.  
 Maintained by **Abdelilah LAMHAMDI**.
 
 ---
-## Ì≥Ç Repository Structure
+## Repository Structure
 linux-bash-scripts/
 ‚îÇ
 ‚îú‚îÄ‚îÄ server-stats.sh      # Collects system performance stats
@@ -12,7 +12,7 @@ linux-bash-scripts/
 ‚îú‚îÄ‚îÄ README.md            # Project documentation
 ‚îî‚îÄ‚îÄ LICENSE              # Open-source license (MIT by default)
 
-## Ìª†Ô∏è Requirements
+## Requirements
 
 Linux (any distribution)
 
@@ -20,11 +20,11 @@ Standard commands: awk, ps, df, uptime, who
 
 Optional: lastb (for failed login attempts)
 
-## Ì≥ú License
+## License
 
 This project is licensed under the MIT License ‚Äì feel free to use, share, and improve.
 
-## Ì¥ù Contributing
+## Contributing
 
 Contributions are welcome!
 
@@ -33,16 +33,16 @@ Fork the repo
 Create a feature branch
 
 Submit a pull request
-## Ì≥å Project Overview
+## Project Overview
 This repository contains practical scripts that can be used on any Linux server to analyze and manage system resources.  
 The goal is to provide **ready-to-use**, **well-documented**, and **portable** scripts.
 
 ---
 
-## Ì∫Ä Scripts Available
+## Scripts Available
 
 ### 1. `server-stats.sh`
-Ì¥é A script to analyze **basic server performance stats**.
+A script to analyze **basic server performance stats**.
 
 **Features:**
 - ‚úÖ Total CPU usage (percentage)
@@ -50,7 +50,7 @@ The goal is to provide **ready-to-use**, **well-documented**, and **portable** s
 - ‚úÖ Total disk usage (used vs free, percentage)
 - ‚úÖ Top 5 processes by CPU usage
 - ‚úÖ Top 5 processes by memory usage  
-- ÌæØ *Stretch goals*: OS version, uptime, load average, logged-in users, failed login attempts
+- *Stretch goals*: OS version, uptime, load average, logged-in users, failed login attempts
 
 **Usage:**
 ```bash
